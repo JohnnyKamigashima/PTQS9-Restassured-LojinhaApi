@@ -1,0 +1,23 @@
+{
+  "produtoNome": "Dreamcast",
+  "produtoValor": 999.99,
+  "produtoCores": [
+    "Preto",
+    "Cinza"
+  ],
+  "produtoUrlMock": "string",
+  "componentes": [
+    {
+      "componenteNome": "Controle",
+      "componenteQuantidade": 2
+    },
+    {
+      "componenteNome": "Cabo de video",
+      "componenteQuantidade": 1
+    },
+    {
+      "componenteNome": "Fonte",
+      "componenteQuantidade": 1
+    }
+  ]
+}

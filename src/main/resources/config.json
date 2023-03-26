@@ -1,0 +1,6 @@
+{
+  "baseURI" : "http://165.227.93.41/lojinha",
+  "baseUsuario" : "/v2/usuarios",
+  "baseProduto" : "/v2/produtos",
+  "baseLogin" : "/v2/login"
+}
